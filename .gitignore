@@ -1,0 +1,7 @@
+# Nintendo's files and keys never go in this repo
+*.wad
+common-key.bin
+keys.bin
+nand.bin
+__pycache__/
+.pytest_cache/
